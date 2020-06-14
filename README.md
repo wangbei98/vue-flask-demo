@@ -20,25 +20,25 @@
 
 > http://localhost:8080/test
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfry2xh4msj30gq0760sz.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfrypfan55j30rq0kmmy4.jpg)
 
 #### 后端 - 访问页面
 
 > http://localhost:5000
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfry4owbshj30dz079t8q.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfryq1rlo6j30rq0km3za.jpg)
 
 #### 后端 - 访问test页
 
 > http://localhost:5000/test
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfry2xh4msj30gq0760sz.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfryq6rv6bj30rq0kmgmk.jpg)
 
 #### 后端 -- 访问API
 
 > http://localhost:5000/api/test
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfry6acwyfj30ba04zq33.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfryqbony7j30rq0kmab1.jpg)
 
 
 
